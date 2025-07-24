@@ -43,12 +43,19 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yboulaamane&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yboulaamane&layout=compact&theme=github-dark" height="180"/>
+<!-- Followers -->
+<img src="https://img.shields.io/github/followers/yboulaamane?label=Followers&style=social" />
+<!-- Stars -->
+<img src="https://img.shields.io/github/stars/yboulaamane?label=Stars&style=social" />
+<!-- Public Repos -->
+<img src="https://img.shields.io/badge/Public%20Repos-COUNT-auto?logo=github" />
+<!-- Profile Views (via GitHub Profile Views Counter) -->
+<img src="https://komarev.com/ghpvc/?username=yboulaamane&label=Profile%20Views&color=blue" />
+<!-- Joined GitHub -->
+<img src="https://img.shields.io/badge/Joined-GitHub-blue?logo=github" />
 </p>
-
-
 
 ---
 
