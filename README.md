@@ -64,8 +64,8 @@
 [![QSARBioPred](https://img.shields.io/badge/QSARBioPred-Machine%20Learning%20for%20QSAR-blue?logo=github)](https://github.com/yboulaamane/QSARBioPred)  
 🧪 A tool for building QSAR models using machine learning to predict bioactivity of compounds.
 
-[![CDD-Toolbox](https://img.shields.io/badge/CDD--Toolbox-Drug%20Discovery%20Utilities-blue?logo=github)](https://github.com/yboulaamane/CDD-Toolbox)  
-💊 Scripts and workflows for molecular docking, MD simulations, and compound preparation.
+[![Awesome Drug Discovery](https://img.shields.io/badge/CDD--Toolbox-Drug%20Discovery%20Utilities-blue?logo=github)](https://github.com/yboulaamane/awesome-drug-discovery)  
+💊 A meticulously curated resource list focused on computational methods for drug discovery.
 
 [![VinaScreen](https://img.shields.io/badge/VinaScreen-Virtual%20Screening%20Pipeline-blue?logo=github)](https://github.com/yboulaamane/VinaScreen)  
 🧬 A pipeline for large-scale virtual screening using AutoDock Vina with preprocessing automation.
