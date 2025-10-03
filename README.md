@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yassir-boulaamane)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yassir-Boulaamane)
 [![X](https://img.shields.io/badge/X-%40yassir__tw-000000?logo=twitter&logoColor=white)](https://twitter.com/yassir_tw)
-[![Email](https://img.shields.io/badge/Email-boulaamane.yassir%40etu.uae.ac.ma-D14836?logo=gmail&logoColor=white)](mailto:boulaamane.yassir@etu.uae.ac.ma)
+[![Email](https://img.shields.io/badge/Email-yassir.boulaamane%40uab.cat-D14836?logo=gmail&logoColor=white)](mailto:yassir.boulaamane@uab.cat)
 
 ---
 
