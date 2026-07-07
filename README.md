@@ -7,7 +7,7 @@
 - 🔭 Currently working on **AI for drug discovery**, focusing on natural products, neurodegeneration, and antimicrobial resistance.
 - 🤝 Open to collaborations on **in silico drug design**, **QSAR**, **docking**, and **molecular dynamics**.
 - 📚 Learning advanced techniques like **free energy perturbations** and **umbrella sampling**.
-- 💬 Happy to chat about **MD simulations**, **BBB permeability models**, **QSAR**, or your next project!
+- 💬 Happy to chat about **MD simulations**, **QSAR models**, or your next project!
 ---
 
 ### 🔗 Connect with me
