@@ -1,77 +1,54 @@
-### 👋 Hi, I'm Yassir Boulaamane
+# Hi, I'm Yassir Boulaamane 👋
 
-🔬 Computational Drug Discovery | 🧠 AI for Neurodegenerative & Infectious Diseases  
-🎓 PhD in Cheminformatics | 💻 Passionate about molecular modeling & machine learning
+**Postdoctoral Researcher** at InSiliChem, Universitat Autònoma de Barcelona  
+PhD in Computational Drug Discovery · AI and physics-based molecular modelling
 
----
-- 🔭 Currently working on **AI for drug discovery**, focusing on natural products, neurodegeneration, and antimicrobial resistance.
-- 🤝 Open to collaborations on **in silico drug design**, **QSAR**, **docking**, and **molecular dynamics**.
-- 📚 Learning advanced techniques like **free energy perturbations** and **umbrella sampling**.
-- 💬 Happy to chat about **MD simulations**, **QSAR models**, or your next project!
----
+- **Now:** predicting cross-species P450 metabolism, and building open tools for computational drug discovery ([BioLatent](https://github.com/yboulaamane/biolatent), [Assayer](https://github.com/yboulaamane/assayer)).
+- **Research interests:** natural products, neurodegenerative diseases and antimicrobial resistance.
+- **Learning:** free energy perturbation and umbrella sampling.
+- **Open to collaborations** on in silico drug design, QSAR, docking and molecular dynamics. Email me.
 
-### 🔗 Connect with me
-
+[![Website](https://img.shields.io/badge/Website-yboulaamane.github.io-1f6feb?logo=githubpages&logoColor=white)](https://yboulaamane.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2920--3990-green?logo=orcid)](https://orcid.org/0000-0003-2920-3990)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=d5IimowAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yassir-boulaamane)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yassir-Boulaamane)
-[![X](https://img.shields.io/badge/X-%40yassir__tw-000000?logo=twitter&logoColor=white)](https://twitter.com/yassir_tw)
+[![X](https://img.shields.io/badge/X-%40yassir__tw-000000?logo=x&logoColor=white)](https://x.com/yassir_tw)
 [![Email](https://img.shields.io/badge/Email-yassir.boulaamane%40uab.cat-D14836?logo=gmail&logoColor=white)](mailto:yassir.boulaamane@uab.cat)
 
----
+## Featured projects
 
-### 🧰 Tech Stack
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
-  </a>
-</p>
+**[Assayer](https://github.com/yboulaamane/assayer)** · [assayer.vercel.app](https://assayer.vercel.app)  
+A catalogue of 2,000+ medicinal and computational chemistry tools (300 curated by hand), plus step-by-step protocols that say which tools to use at each step and what it has to prove before you move on.
 
----
+**[BioLatent](https://github.com/yboulaamane/biolatent)** · [biolatent.vercel.app](https://biolatent.vercel.app)  
+A registry and benchmark of molecular, protein and nucleic-acid representations. Version 1.1.0 compares 18 frozen representations across 9 tasks under one prespecified protocol.
 
-### 📊 GitHub Stats
+**[Sorbent](https://github.com/yboulaamane/sorbent)**  
+A compound triage service built on FastAPI and RDKit. Submit a SMILES library, get back a ranked, deduplicated, liability-flagged shortlist where every number is deterministic and citable.
 
-<p align="center">
-<!-- Followers -->
-<img src="https://img.shields.io/github/followers/yboulaamane?label=Followers&style=social" />
-<!-- Stars -->
-<img src="https://img.shields.io/github/stars/yboulaamane?label=Stars&style=social" />
-<!-- Public Repos -->
-<img src="https://img.shields.io/badge/Public%20Repos-15-blue?logo=github" />
-<!-- Profile Views (via GitHub Profile Views Counter) -->
-<img src="https://komarev.com/ghpvc/?username=yboulaamane&label=Profile%20Views&color=blue" />
-<!-- Joined GitHub -->
-<img src="https://img.shields.io/badge/Joined-Mar%2020,%202014-blue?logo=github" />
-</p>
+**[Learn CADD](https://github.com/yboulaamane/learn-cadd)** · [learn-cadd.vercel.app](https://learn-cadd.vercel.app)  
+An interactive, first-principles course on computer-aided drug design: 18 modules, each pairing theory with a browser playground.
 
----
+**[Awesome Drug Discovery](https://github.com/yboulaamane/awesome-drug-discovery)** [![Stars](https://img.shields.io/github/stars/yboulaamane/awesome-drug-discovery?style=social)](https://github.com/yboulaamane/awesome-drug-discovery/stargazers)  
+A curated resource list on computational methods for drug discovery.
 
-### 📁 Projects
+## More projects
 
-[![QSARBioPred](https://img.shields.io/badge/QSARBioPred-Machine%20Learning%20for%20QSAR-blue?logo=github)](https://github.com/yboulaamane/QSARBioPred)  
-🧪 A tool for building QSAR models using machine learning to predict bioactivity of compounds.
+- [QSARBoost](https://github.com/yboulaamane/QSARBoost): a Python framework for building, validating and applying gradient boosting QSAR models.
+- [QSARBioPred](https://github.com/yboulaamane/QSARBioPred): a Jupyter notebook for building QSAR classification models for bioactivity prediction.
+- [EnsembleBBB](https://github.com/yboulaamane/EnsembleBBB): an ensemble machine learning model for predicting blood-brain barrier permeability.
+- [VinaScreen](https://github.com/yboulaamane/VinaScreen): an automated AutoDock Vina script for structure-based virtual screening.
+- [GMXPlotter](https://github.com/yboulaamane/GMXPlotter): a reproducible analysis workflow for GROMACS MD simulations on Google Colab.
+- [CoumarinDB](https://github.com/yboulaamane/CoumarinDB) and [ArtemisiaDB](https://github.com/yboulaamane/ArtemisiaDB): curated databases of naturally occurring coumarins and of secondary metabolites from *Artemisia* species.
+- [comp_chem_colab](https://github.com/yboulaamane/comp_chem_colab): Jupyter notebooks for computational chemists.
 
-[![Awesome Drug Discovery](https://img.shields.io/badge/Awesome-Drug%20Discovery%20-blue?logo=github)](https://github.com/yboulaamane/awesome-drug-discovery)  
-💊 A meticulously curated resource list focused on computational methods for drug discovery.
+## Tools I work with
 
-[![VinaScreen](https://img.shields.io/badge/VinaScreen-Virtual%20Screening%20Pipeline-blue?logo=github)](https://github.com/yboulaamane/VinaScreen)  
-🧬 A pipeline for large-scale virtual screening using AutoDock Vina with preprocessing automation.
+**Cheminformatics and ML:** Python, RDKit, scikit-learn, PyTorch, Hugging Face Transformers  
+**Simulation and docking:** GROMACS, AutoDock Vina  
+**Software:** FastAPI, Next.js, TypeScript, Jupyter, Linux, Bash
 
-[![EnsembleBBB](https://img.shields.io/badge/EnsembleBBB-BBB%20Permeability%20Predictor-blue?logo=github)](https://github.com/yboulaamane/EnsembleBBB)  
-🧠 Streamlit app using ensemble ML models to predict blood-brain barrier permeability.
+## Publications
 
-[![CoumarinDB](https://img.shields.io/badge/CoumarinDB-Coumarin%20Compound%20Library-blue?logo=github)](https://github.com/yboulaamane/CoumarinDB)  
-🌿 Curated library of coumarin derivatives with computed properties for drug discovery applications.
+Recent papers are listed on my [website](https://yboulaamane.github.io/publications/) and [Google Scholar](https://scholar.google.com/citations?user=d5IimowAAAAJ).
