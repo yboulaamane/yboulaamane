@@ -3,7 +3,7 @@
 **Postdoctoral Researcher** at InSiliChem, Universitat Autònoma de Barcelona  
 PhD in Computational Drug Discovery · AI and physics-based molecular modelling
 
-- **Now:** predicting cross-species P450 metabolism, and building open tools for computational drug discovery ([BioLatent](https://github.com/yboulaamane/biolatent), [Assayer](https://github.com/yboulaamane/assayer)).
+- **Now:** predicting P450 metabolism, and building open tools for computational drug discovery ([BioLatent](https://github.com/yboulaamane/biolatent), [Assayer](https://github.com/yboulaamane/assayer)).
 - **Research interests:** natural products, neurodegenerative diseases and antimicrobial resistance.
 - **Learning:** free energy perturbation and umbrella sampling.
 - **Open to collaborations** on in silico drug design, QSAR, docking and molecular dynamics. Email me.
