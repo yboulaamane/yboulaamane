@@ -39,9 +39,9 @@ A curated resource list on computational methods for drug discovery.
 - [QSARBioPred](https://github.com/yboulaamane/QSARBioPred): a Jupyter notebook for building QSAR classification models for bioactivity prediction.
 - [EnsembleBBB](https://github.com/yboulaamane/EnsembleBBB): an ensemble machine learning model for predicting blood-brain barrier permeability.
 - [VinaScreen](https://github.com/yboulaamane/VinaScreen): an automated AutoDock Vina script for structure-based virtual screening.
-- [GMXPlotter](https://github.com/yboulaamane/GMXPlotter): a reproducible analysis workflow for GROMACS MD simulations on Google Colab.
+- [GMXFlow](https://github.com/yboulaamane/GMXFlow): protein-ligand molecular dynamics with GROMACS, from a PDB file through setup, analysis and publication-ready plots.
 - [CoumarinDB](https://github.com/yboulaamane/CoumarinDB) and [ArtemisiaDB](https://github.com/yboulaamane/ArtemisiaDB): curated databases of naturally occurring coumarins and of secondary metabolites from *Artemisia* species.
-- [comp_chem_colab](https://github.com/yboulaamane/comp_chem_colab): Jupyter notebooks for computational chemists.
+- [CADD Labs](https://github.com/yboulaamane/cadd-labs): run-in-Colab notebooks for computer-aided drug design (docking, protein-ligand interactions, pharmacophores, ADMET, ML screening and MD), the hands-on companion to Learn CADD.
 
 ## Tools I work with
 
